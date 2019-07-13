@@ -41,5 +41,20 @@ Tools - Options - Preview Features
 ### Step 5
 * Remember **gRPC.Server - applicationUrl**
 > (at the first glance it seems ridiculous, but Windows wishes you all the best). Every time, when you **restart** Visual Studio/Restart Windows, **applicationUrl changes**.
-_So do not worry if your application does not work by chance._   
- 
+_So do not worry if your application does not work by chance._    
+![Blazor gRPC - Microsoft Visual Studio 7_13_2019 7_42_35 PM (2)](https://user-images.githubusercontent.com/41151124/61174271-866dae80-a5a6-11e9-85db-dba66ceffa72.png)
+
+### Step 6
+* Open gRPC.Client - Pages - Index.razor
+##### Change to the remebmbered applicationUrl
+![Blazor gRPC - Microsoft Visual Studio 7_13_2019 7_45_39 PM (2)](https://user-images.githubusercontent.com/41151124/61174311-f2e8ad80-a5a6-11e9-9548-4e205bbb8d50.png)
+
+### Step 7 
+* Run gRPC.Client
+![gRPC Client - Google Chrome 7_13_2019 7_51_19 PM](https://user-images.githubusercontent.com/41151124/61174370-b5d0eb00-a5a7-11e9-9fc8-de10e5ecd870.png)
+
+## That's all
+
+### But with the following updates you need to do some changes in the project file
+![Blazor gRPC - Microsoft Visual Studio 7_13_2019 7_54_37 PM (2)](https://user-images.githubusercontent.com/41151124/61174403-2415ad80-a5a8-11e9-8414-e0d66d7984e6.png)
+
