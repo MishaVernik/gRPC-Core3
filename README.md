@@ -2,8 +2,8 @@
 How to launch Razor pages + using protoBuf + .Net Core3 (unstable for this moment)
 
 # Rules to launch on Windows 
-1. Open the project
-2. Build the project 
+* 1. Open the project
+* 2. Build the project 
 (you need to install Core3.0 sdk)
 ---How to install .net core 3.0 
 Download via this link
@@ -16,7 +16,7 @@ Tools - Options - Projects and Solutions - .Net Core
 or
 Tools - Options - Preview Features 
 ---
-3. Open cmd and go to this path where is your project located
+* 3. Open cmd and go to this path where is your project located
 (example: 
  c:\> g:
  g:\> cd grpc.Server
@@ -28,5 +28,5 @@ By the way, you can use "Multiple start" in the Visual Studio
 2. Set StartUp Projects
 3. Use start in each drop list 
 -- pic --   
-4. Run project 
+* 4. Run project 
  
