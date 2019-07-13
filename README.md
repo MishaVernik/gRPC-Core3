@@ -5,17 +5,19 @@ How to launch Razor pages + using protoBuf + .Net Core3 (unstable for this momen
 * 1. Open the project
 * 2. Build the project 
 (you need to install Core3.0 sdk)
----How to install .net core 3.0 
+###How to install .net core 3.0 
 Download via this link
-1. https://dotnet.microsoft.com/download/dotnet-core/3.0
-2. Restart Visual Studio 2019
-3. Activate checkbox "Use preview of the .Net Coe SDK" 
+ 1. 1. https://dotnet.microsoft.com/download/dotnet-core/3.0
+ 1. 2. Restart Visual Studio 2019
+ 1. 3. Activate checkbox "Use preview of the .Net Coe SDK" 
 -- pic --
 Go to the menu-bar: 
+```
 Tools - Options - Projects and Solutions - .Net Core
 or
 Tools - Options - Preview Features 
----
+```
+
 * 3. Open cmd and go to this path where is your project located
 (example: 
  c:\> g:
