@@ -26,7 +26,7 @@ Tools - Options - Preview Features
  g:\grpc.Server > dotnet build
  g:\grpc.Server > dotnet run -f netcoreapp3.0
 ```
--- pic -- 
+![Rule 3](https://github.com/MishaVernik/gRPC-Core3/tree/master/pics/rule1.png)
 ### By the way, you can use "Multiple start" in the Visual Studio 
  1. 1. Right-click on the Soluion  
  1. 2. Set StartUp Projects
