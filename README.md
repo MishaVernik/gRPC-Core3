@@ -12,7 +12,8 @@ Download via this link
   1. https://dotnet.microsoft.com/download/dotnet-core/3.0
   1. Restart Visual Studio 2019
   1. Activate checkbox "Use preview of the .Net Coe SDK" 
--- pic --
+![Blazor gRPC - Microsoft Visual Studio 7_14_2019 11_26_46 AM](https://user-images.githubusercontent.com/41151124/61181132-667fce80-a62a-11e9-8c29-5eeec634c132.png)
+
 Go to the menu-bar: 
 ```
 Tools - Options - Projects and Solutions - .Net Core
